@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/meshunit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mesh numeric unit values, ranges, and human-readable units.",
+  "bin": {
+    "meshunit": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/meshunit.git"
+  },
+  "homepage": "https://theworker02.github.io/meshunit/",
+  "keywords": [
+    "mesh",
+    "unit",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
